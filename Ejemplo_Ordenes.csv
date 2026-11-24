@@ -1,0 +1,3 @@
+id_equipo,fecha,tipo,horas_parada,costo_usd
+EQ-01,2026-11-20,Preventivo,2.0,350
+EQ-03,2026-11-22,Correctivo,6.5,1800
