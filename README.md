@@ -1,5 +1,7 @@
 # Panel de Control de Mantenimiento Industrial
 
+**[Abrir aplicación en vivo](https://tu-link-real.streamlit.app)**
+
 Aplicación web interactiva construida con **Python, Streamlit, Pandas y SQLite** para el seguimiento de órdenes de mantenimiento en planta.
 
 ## Funcionalidades principales

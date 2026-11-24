@@ -245,3 +245,8 @@ st.divider()
 st.subheader("Horas de Parada por Equipo")
 horas_equipo = df_filtrado.groupby("equipo")["horas_parada"].sum()
 st.bar_chart(horas_equipo)
+
+
+# Final
+st.divider()
+st.caption("Panel de Control de Mantenimiento Industrial | Desarrollado con Python, Streamlit y SQLite.")
